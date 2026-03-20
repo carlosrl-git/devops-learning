@@ -6,37 +6,37 @@ He aprendido a trabajar con Linux desde terminal, administrando el sistema sin i
 
 ##  Sistema de ficheros
 
-- /home → directorios de usuarios
-- /etc → archivos de configuración del sistema
-- /var/log → registros del sistema
+- /home -> directorios de usuarios
+- /etc -> archivos de configuración del sistema
+- /var/log -> registros del sistema
 
 ##  Comandos utilizados
 
-pwd → ver ruta actual  
-ls / ls -l → listar archivos  
-cd → moverse entre directorios  
-mkdir → crear carpetas  
-rm / rm -r → eliminar archivos y carpetas  
-cp → copiar archivos  
-mv → mover archivos  
+pwd -> ver ruta actual  
+ls / ls -l -> listar archivos  
+cd -> moverse entre directorios  
+mkdir -> crear carpetas  
+rm / rm -r -> eliminar archivos y carpetas  
+cp -> copiar archivos  
+mv -> mover archivos  
 
 ##  Usuarios y permisos
 
-whoami → ver usuario actual  
-id → ver información del usuario  
-chmod → cambiar permisos  
-chown → cambiar propietario  
+whoami -> ver usuario actual  
+id -> ver información del usuario  
+chmod -> cambiar permisos  
+chown -> cambiar propietario  
 
 ##  Procesos
 
-ps → ver procesos  
-top → monitorizar sistema  
-kill → terminar procesos  
+ps -> ver procesos  
+top -> monitorizar sistema  
+kill -> terminar procesos  
 
 ##  Networking básico
 
-ping → comprobar conectividad  
-ip a → ver dirección IP  
+ping -> comprobar conectividad  
+ip a -> ver dirección IP  
 
 ##  Ejercicios realizados
 
@@ -49,7 +49,7 @@ ip a → ver dirección IP
 ##  Problemas encontrados
 
 - Problemas al eliminar archivos por permisos  
-→ solucionado modificando permisos con chmod  
+-> solucionado modificando permisos con chmod  
 
 - Archivos que no desaparecían  
-→ revisado uso correcto de rutas y comandos
+-> revisado uso correcto de rutas y comandos
